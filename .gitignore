@@ -1,5 +1,11 @@
-data.csv
-mnist.pkl.gz
-batch_results
-test_date
+i# HelloWorld
 
+*/data.csv
+*/mnist.pkl.gz
+*/batch_results
+*/test_date
+*/.ipynb_checkpoints/
+
+# TensorFlow
+
+./TensorFlow/data/*
