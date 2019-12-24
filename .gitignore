@@ -1,10 +1,13 @@
+# All
+
+#.ipynb_checkpoints
+
 # HelloWorld
 
 */data.csv
 */mnist.pkl.gz
 */batch_results
 */test_date
-*/.ipynb_checkpoints/
 
 # TensorFlow
 
