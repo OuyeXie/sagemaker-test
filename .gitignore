@@ -1,4 +1,4 @@
-i# HelloWorld
+# HelloWorld
 
 */data.csv
 */mnist.pkl.gz
@@ -8,4 +8,4 @@ i# HelloWorld
 
 # TensorFlow
 
-./TensorFlow/data/*
+TensorFlow/data
